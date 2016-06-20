@@ -1,3 +1,7 @@
+@font-face {
+	font-family: "mod";
+	src: url("http://dmbrpg.b1.jcink.com/uploads/dmbrpg/fonts/HelloLuckyTTF.ttf");
+}
 /* Reset */
 
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,dfn,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
@@ -41,7 +45,7 @@ float: left;
 
 
 h1{
-font-family: 'Open Sans', sans-serif;
+font-family: "mod";
 color: gold;
 text-align: center;
 font-size: 50px;
@@ -59,7 +63,7 @@ h2{
 	text-align: center;
 	font-weight: 300;
 	font-size: 20px;
-		color: #ffffff;
+		color: #FF5721;
 
 }
 
@@ -78,12 +82,12 @@ margin: 0 auto;
 h3{
 font-size: 28px;
 font-weight: 600;
-color: #ffffff;
+color: #FF5721;
 }
 
 .information p{
 font-size: 16px;
-color: #ffffff;
+color: #FF5721;
 display: block;
 }
 
