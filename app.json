@@ -5,16 +5,16 @@
   "keywords": ["node", "slack", "invite"],
   "env": {
     "COMMUNITY_NAME": {
-      "description": "Deep in My Bones",
+      "description": "Your community name",
       "value": "Afterglow"
     },
     "SLACK_URL": {
       "description": "Your slack url(ex: socketio.slack.com)",
-      "value": "bonesrp.slack.com"
+      "value": "xafterglowx.slack.com"
     },
     "SLACK_TOKEN": {
       "description": "access token of slack, You can generate it in https://api.slack.com/web#auth",
-      "value": "xoxp-33385380535-33387327863-33499487510-0cef33134b"
+      "value": "xoxp-52570391763-52619448661-52612809958-7cafefd080"
     },
     "INVITE_TOKEN": {
       "description": "Shared invite token used to get access. Leave blank if you don't want users to have to provide a token.",
