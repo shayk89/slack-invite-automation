@@ -5,8 +5,8 @@
   "keywords": ["node", "slack", "invite"],
   "env": {
     "COMMUNITY_NAME": {
-      "description": "Deep in My Bones",
-      "value": "Afterglow"
+      "description": "Your community name",
+      "value": "Deep in My Bones"
     },
     "SLACK_URL": {
       "description": "Your slack url(ex: socketio.slack.com)",
