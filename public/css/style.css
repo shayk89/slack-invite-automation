@@ -45,7 +45,7 @@ float: left;
 
 
 h1{
-font-family: "mod";
+font-family: 'mod', 'Lato', sans-serif;;
 color: gold;
 text-align: center;
 font-size: 50px;
